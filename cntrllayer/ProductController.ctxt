@@ -1,0 +1,17 @@
+#BlueJ class context
+comment0.target=ProductController
+comment1.params=
+comment1.target=ProductController()
+comment2.params=stock\ name\ barcode\ price
+comment2.target=void\ create(int,\ java.lang.String,\ java.lang.String,\ double)
+comment3.params=productLine
+comment3.target=void\ delete(modellayer.ProductLine)
+comment4.params=oldPL\ stock\ name\ barcode\ price
+comment4.target=void\ update(modellayer.ProductLine,\ int,\ java.lang.String,\ java.lang.String,\ double)
+comment5.params=p
+comment5.target=java.util.ArrayList\ getSearchResults(java.lang.String)
+comment6.params=p
+comment6.target=java.lang.String\ getSearchString(java.lang.String)
+comment7.params=index\ amount
+comment7.target=void\ changeStock(int,\ int)
+numComments=8

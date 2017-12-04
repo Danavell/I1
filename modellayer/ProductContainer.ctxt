@@ -1,0 +1,15 @@
+#BlueJ class context
+comment0.target=ProductContainer
+comment1.params=
+comment1.target=ProductContainer()
+comment2.params=
+comment2.target=ProductContainer\ getInstance()
+comment3.params=pL
+comment3.target=void\ addNewProductLine(ProductLine)
+comment4.params=pL
+comment4.target=void\ deleteProductLine(ProductLine)
+comment5.params=prefix
+comment5.target=java.util.ArrayList\ searchProductLine(java.lang.String)
+comment6.params=index\ amount
+comment6.target=void\ setStock(int,\ int)
+numComments=7

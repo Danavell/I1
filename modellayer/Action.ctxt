@@ -1,0 +1,11 @@
+#BlueJ class context
+comment0.target=Action
+comment1.params=amount\ product
+comment1.target=Action(int,\ Product)
+comment2.params=
+comment2.target=java.lang.String\ actionPrint()
+comment3.params=
+comment3.target=double\ calcSalePrice()
+comment4.params=amount\ newProduct
+comment4.target=void\ addActionLine(int,\ Product)
+numComments=5
